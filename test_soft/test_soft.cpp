@@ -8,6 +8,10 @@ int test(int a, int b) {
 void salut() {
     cout << "Ce mai faci?";
 }
+
+void lareverdere() {
+    cout << "La revedere";
+}
 int main() {
     int x,y;
     cin >> x >> y;
